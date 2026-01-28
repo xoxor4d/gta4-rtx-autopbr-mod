@@ -1,0 +1,246 @@
+#usda 1.0
+(
+    upAxis = "Z"
+)
+
+over "RootNode"
+{
+    over "Looks"
+    {
+        over "mat_82CB696E4EED36CE"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.7
+                asset inputs:reflectionroughness_texture = @@
+            }
+        }
+
+        over "mat_2F9FFEDEDF9F0D56"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.7
+                asset inputs:reflectionroughness_texture = @@
+            }
+        }
+
+        over "mat_6AAECC38821D7676"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.7
+                asset inputs:reflectionroughness_texture = @@
+            }
+        }
+
+        over "mat_7959E95FF2767E9D"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.7
+                asset inputs:reflectionroughness_texture = @@
+            }
+        }
+
+        over "mat_5E62BC434C2F0B19"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.7
+                asset inputs:reflectionroughness_texture = @@
+            }
+        }
+
+        over "mat_4D198C628AFF2C1C"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.7
+                asset inputs:reflectionroughness_texture = @@
+            }
+        }
+
+        over "mat_16EE810FFA086303"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.7
+                asset inputs:reflectionroughness_texture = @@
+            }
+        }
+
+        over "mat_B798F87C1F4EFC67"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.7
+                asset inputs:reflectionroughness_texture = @@
+            }
+        }
+
+        over "mat_7E47091D533105D3"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.7
+                asset inputs:reflectionroughness_texture = @@
+            }
+        }
+
+        over "mat_9880C0479C1445EB"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.7
+                asset inputs:reflectionroughness_texture = @@
+            }
+        }
+
+        over "mat_1B7AEAC889EFA568"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.7
+                asset inputs:reflectionroughness_texture = @@
+            }
+        }
+
+        over "mat_5F31BCA187A7BF96"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.7
+                asset inputs:reflectionroughness_texture = @@
+            }
+        }
+
+        over "mat_6D329CBAE73DECC2"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.7
+                asset inputs:reflectionroughness_texture = @@
+            }
+        }
+
+        over "mat_7ACD5CC9C2746BA6"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.7
+                asset inputs:reflectionroughness_texture = @@
+            }
+        }
+
+        over "mat_7D3EF1EF1A5DB8EE"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.7
+                asset inputs:reflectionroughness_texture = @@
+            }
+        }
+
+        over "mat_BF17E9A3A7905F41"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.7
+                asset inputs:reflectionroughness_texture = @@
+            }
+        }
+
+
+        over "mat_DA85471D4E5FB6EA"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.7
+                asset inputs:reflectionroughness_texture = @@
+            }
+        }
+
+        over "mat_D7E3FA679C89E76C"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.7
+                asset inputs:reflectionroughness_texture = @@
+            }
+        }
+
+        over "mat_CBA6BBC1936B9036"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.7
+                asset inputs:reflectionroughness_texture = @@
+            }
+        }
+
+        over "mat_8C238EAB67F21604"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.7
+                asset inputs:reflectionroughness_texture = @@
+            }
+        }
+
+        over "mat_F6FBC55BEFD77696"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.7
+                asset inputs:reflectionroughness_texture = @@
+            }
+        }
+
+        over "mat_47CE15393DB339D0"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.7
+                asset inputs:reflectionroughness_texture = @@
+            }
+        }
+
+        over "mat_C72449BAE5335263"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.7
+                asset inputs:reflectionroughness_texture = @@
+            }
+        }
+
+        over "mat_A6DED6182C67CC20"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.7
+                asset inputs:reflectionroughness_texture = @@
+            }
+        }
+
+        over "mat_9F5800ED35BEAE35"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.7
+                asset inputs:reflectionroughness_texture = @@
+            }
+        }
+
+        over "mat_B28480D9995F3A43"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.7
+                asset inputs:reflectionroughness_texture = @@
+            }
+        }
+    }
+}
+

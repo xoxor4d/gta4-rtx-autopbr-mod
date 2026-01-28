@@ -11,6 +11,7 @@ patreon.com/xoxor4d"""
     endTimeCode = 1
     startTimeCode = 0
     subLayers = [
+        @./misc_fixes.usda@,
         @./comp_autoconvert.usda@
     ]
     timeCodesPerSecond = 24
