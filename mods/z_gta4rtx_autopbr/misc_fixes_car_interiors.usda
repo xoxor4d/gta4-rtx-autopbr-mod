@@ -78,7 +78,7 @@ over "RootNode"
                 asset inputs:reflectionroughness_texture = @@
             }
         }
-
+        
         over "mat_7E47091D533105D3"
         {
             over "Shader"
@@ -101,6 +101,7 @@ over "RootNode"
         {
             over "Shader"
             {
+                asset inputs:normalmap_texture = @@
                 custom float inputs:reflection_roughness_constant = 0.7
                 asset inputs:reflectionroughness_texture = @@
             }
@@ -150,7 +151,6 @@ over "RootNode"
                 asset inputs:reflectionroughness_texture = @@
             }
         }
-
 
         over "mat_DA85471D4E5FB6EA"
         {
@@ -234,6 +234,123 @@ over "RootNode"
         }
 
         over "mat_B28480D9995F3A43"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.7
+                asset inputs:reflectionroughness_texture = @@
+            }
+        }
+
+        over "mat_91143FB3126082A3"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.7
+                asset inputs:reflectionroughness_texture = @@
+            }
+        }
+
+        over "mat_3D809ECE1183CA67"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.7
+                asset inputs:reflectionroughness_texture = @@
+            }
+        }
+
+        over "mat_F3D9CB79C4FEE3C8"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.7
+                asset inputs:reflectionroughness_texture = @@
+            }
+        }
+
+        over "mat_161D9649BD17FEEE"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.7
+                asset inputs:reflectionroughness_texture = @@
+            }
+        }
+
+        over "mat_A5F22EDD82DC3441"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.7
+                asset inputs:reflectionroughness_texture = @@
+            }
+        }
+
+        over "mat_A35156238A1CCA65"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.7
+                asset inputs:reflectionroughness_texture = @@
+            }
+        }
+
+        over "mat_CBED6F2EE068FDFC"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.7
+                asset inputs:reflectionroughness_texture = @@
+            }
+        }
+
+        over "mat_3EF9BBC338D92422"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.7
+                asset inputs:reflectionroughness_texture = @@
+            }
+        }
+
+        over "mat_311B2DDAE4AA7231"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.7
+                asset inputs:reflectionroughness_texture = @@
+            }
+        }
+
+        over "mat_07141301D42660BF"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.7
+                asset inputs:reflectionroughness_texture = @@
+            }
+        }
+
+        over "mat_3A5502EEB66E9235"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.7
+                asset inputs:reflectionroughness_texture = @@
+            }
+        }
+
+        over "mat_BC1E3D29AE3F9E2A"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.7
+                asset inputs:reflectionroughness_texture = @@
+            }
+        }
+
+        over "mat_3BC71CB570803A23"
         {
             over "Shader"
             {
