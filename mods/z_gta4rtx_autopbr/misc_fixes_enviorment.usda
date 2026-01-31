@@ -7,6 +7,15 @@ over "RootNode"
 {
     over "Looks"
     {
+        over "mat_45DA3D87E77C2E15"
+        {
+            over "Shader"
+            {
+                asset inputs:normalmap_texture = @./assets/autoconv/9C6ECA2D8E3F9B08_normal_oth.dds@
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/B2B225BABE16AA98_chG_rough.dds@
+            }
+        }
+        
         over "mat_B10DE587CB2467BD"
         {
             over "Shader"
