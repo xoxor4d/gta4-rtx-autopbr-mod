@@ -1,0 +1,16 @@
+#usda 1.0
+(
+    subLayers = [
+        @./misc_fixes_car_interiors.usda@,
+        @./misc_fixes_enviorment.usda@
+    ]
+    upAxis = "Z"
+)
+
+over "RootNode"
+{
+    over "Looks"
+    {
+    }
+}
+
