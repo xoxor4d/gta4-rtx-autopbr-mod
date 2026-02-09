@@ -2,7 +2,10 @@
 (
     subLayers = [
         @./misc_fixes_car_interiors.usda@,
-        @./misc_fixes_enviorment.usda@
+        @./misc_fixes_car_ext.usda@,
+        @./misc_fixes_environment.usda@,
+        @./misc_fixes_weapons.usda@,
+        @./misc_fixes_peds.usda@
     ]
     upAxis = "Z"
 )

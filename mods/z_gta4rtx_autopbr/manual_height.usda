@@ -1,0 +1,172 @@
+#usda 1.0
+(
+    upAxis = "Z"
+)
+
+over "RootNode"
+{
+    over "Looks"
+    {
+        over "mat_6E1843ACCC8F9F28"
+        {
+            over "Shader"
+            {
+                asset inputs:normalmap_texture = @./assets/autoconv/3A179B26A5F2AFC2_normal_oth.dds@
+                asset inputs:height_texture = @./assets/autoconv/3A179B26A5F2AFC2_height.dds@
+                float inputs:displace_in = 0.03
+            }
+        }
+
+        over "mat_E7F3873DA1D7F9D4"
+        {
+            over "Shader"
+            {
+                asset inputs:normalmap_texture = @./assets/autoconv/7B51E7649554156C_normal_oth.dds@
+                asset inputs:height_texture = @./assets/autoconv/7B51E7649554156C_height.dds@
+                float inputs:displace_in = 0.03
+            }
+        }
+
+        over "mat_BCF657BE912D0990"
+        {
+            over "Shader"
+            {
+                asset inputs:normalmap_texture = @./assets/autoconv/21D45AEAC13EB365_normal_oth.dds@
+                asset inputs:height_texture = @./assets/autoconv/21D45AEAC13EB365_height.dds@
+                float inputs:displace_in = 0.03
+            }
+        }
+
+        over "mat_BEE3068D68E00F4F"
+        {
+            over "Shader"
+            {
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/54550672C1C34611_chR_rough.dds@
+                asset inputs:height_texture = @./assets/autoconv/34C705C000AC0430_height.dds@
+                float inputs:displace_in = 0.03
+            }
+        }
+
+        over "mat_A962BA7EC1F8F842"
+        {
+            over "Shader"
+            {
+                asset inputs:normalmap_texture = @./assets/autoconv/55A312776EDEA859_normal_oth.dds@
+                asset inputs:height_texture = @./assets/autoconv/55A312776EDEA859_height.dds@
+                float inputs:displace_in = 0.03
+            }
+        }
+
+        over "mat_4C19099A37AF6E7E"
+        {
+            over "Shader"
+            {
+                asset inputs:normalmap_texture = @./assets/autoconv/313BEA77020352E1_normal_oth.dds@
+                asset inputs:height_texture = @./assets/autoconv/313BEA77020352E1_height.dds@
+                float inputs:displace_in = 0.03
+            }
+        }
+
+        over "mat_DF7A70E5394A9D98"
+        {
+            over "Shader"
+            {
+                asset inputs:normalmap_texture = @./assets/autoconv/320E2ED85F92B7EB_normal_oth.dds@
+                asset inputs:height_texture = @./assets/autoconv/320E2ED85F92B7EB_height.dds@
+                float inputs:displace_in = 0.03
+            }
+        }
+
+        over "mat_C490D37932EE93EC"
+        {
+            over "Shader"
+            {
+                asset inputs:normalmap_texture = @./assets/autoconv/9251F5803603E049_normal_oth.dds@
+                asset inputs:height_texture = @./assets/autoconv/9251F5803603E049_height.dds@
+                float inputs:displace_in = 0.03
+            }
+        }
+
+        over "mat_FD8D230E6A86CB4C"
+        {
+            over "Shader"
+            {
+                asset inputs:normalmap_texture = @./assets/autoconv/9384689168B65C95_normal_oth.dds@
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/78106381229720FE_chR_rough.dds@
+                asset inputs:height_texture = @./assets/autoconv/7122656CD691BFE3_height.dds@
+                float inputs:displace_in = 0.03
+            }
+        }
+
+        over "mat_6D378B8993E766B8"
+        {
+            over "Shader"
+            {
+                asset inputs:normalmap_texture = @./assets/autoconv/AEA538AB32AB65C9_normal_oth.dds@
+                asset inputs:height_texture = @./assets/autoconv/AEA538AB32AB65C9_height.dds@
+                float inputs:displace_in = 0.03
+            }
+        }
+
+        over "mat_D10AED6908BDF206"
+        {
+            over "Shader"
+            {
+                asset inputs:normalmap_texture = @./assets/autoconv/BA41118E6BD13489_normal_oth.dds@
+                asset inputs:height_texture = @./assets/autoconv/BA41118E6BD13489_height.dds@
+                float inputs:displace_in = 0.03
+            }
+        }
+
+        over "mat_005603F6A22CA4B6"
+        {
+            over "Shader"
+            {
+                asset inputs:normalmap_texture = @./assets/autoconv/BB8C3F288C2C2537_normal_oth.dds@
+                asset inputs:height_texture = @./assets/autoconv/BB8C3F288C2C2537_height.dds@
+                float inputs:displace_in = 0.03
+            }
+        }
+
+        over "mat_DA69B6C51AA9A3EB"
+        {
+            over "Shader"
+            {
+                asset inputs:normalmap_texture = @./assets/autoconv/C0A8956BE3527AF2_normal_oth.dds@
+                asset inputs:height_texture = @./assets/autoconv/C0A8956BE3527AF2_height.dds@
+                float inputs:displace_in = 0.03
+            }
+        }
+
+        over "mat_231637D1506FD742"
+        {
+            over "Shader"
+            {
+                asset inputs:normalmap_texture = @./assets/autoconv/CC04FA586A34CFF0_normal_oth.dds@
+                asset inputs:height_texture = @./assets/autoconv/CC04FA586A34CFF0_height.dds@
+                float inputs:displace_in = 0.01
+            }
+        }
+
+        over "mat_64D779AC1BD47E9A"
+        {
+            over "Shader"
+            {
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/B4051B019F3D10D3_chG_rough.dds@
+                asset inputs:height_texture = @./assets/autoconv/DB3B73543E59F47E_height.dds@
+                float inputs:displace_in = 0.03
+            }
+        }
+
+        over "mat_9AE487E7A81B66C7"
+        {
+            over "Shader"
+            {
+                asset inputs:normalmap_texture = @./assets/autoconv/7122656CD691BFE3_normal_oth.dds@
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/368BB535DD433AAB_chR_rough.dds@
+                asset inputs:height_texture = @./assets/autoconv/7122656CD691BFE3_height.dds@
+                float inputs:displace_in = 0.03
+            }
+        }
+    }
+}

@@ -1,0 +1,15 @@
+#usda 1.0
+(
+    subLayers = [
+        @./manual_height.usda@
+    ]
+    upAxis = "Z"
+)
+
+over "RootNode"
+{
+    over "Looks"
+    {
+    }
+}
+
