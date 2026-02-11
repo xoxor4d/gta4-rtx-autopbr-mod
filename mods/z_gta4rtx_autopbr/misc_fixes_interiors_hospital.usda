@@ -1,0 +1,540 @@
+#usda 1.0
+(
+    upAxis = "Z"
+)
+
+over "RootNode"
+{
+    over "Looks"
+    {
+        over "mat_D68ACBB1C18CA461"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 1
+            }
+        }
+
+        over "mat_51A83D3823885588"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 1
+            }
+        }
+
+        over "mat_983739E9A8583A57"
+        {
+            over "Shader"
+            {
+                asset inputs:normalmap_texture = @./assets/autoconv/756E3D107D7EE472_normal_oth.dds@
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/0D6A08748E70A55D_chR_rough.dds@
+            }
+        }
+
+        over "mat_9D1FB3C0EFA63DAB"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 1
+            }
+        }
+
+        over "mat_8FD90FBE0B240769"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 1
+            }
+        }
+
+        over "mat_F2874B5E42A88DF2"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 1
+            }
+        }
+
+        over "mat_FFF3B550B1B0EC34"
+        {
+            over "Shader"
+            {
+                asset inputs:reflectionroughness_texture = @./assets/misc_fixes/misc_fixes_interiors/misc_fixes_interiors_hospital/ss_erwallsnew2/ss_erwallsnew2b_rough.dds@
+            }
+        }
+
+        over "mat_6C6C07583093A9FC"
+        {
+            over "Shader"
+            {
+                asset inputs:reflectionroughness_texture = @./assets/misc_fixes/misc_fixes_interiors/misc_fixes_interiors_hospital/ss_erwallsnew2/ss_erwallsnew2b_rough.dds@
+            }
+        }
+
+        over "mat_5BD43CEE36AADF70"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 1
+            }
+        }
+
+        over "mat_77C966C68D48D64B"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 1
+            }
+        }
+
+        over "mat_C74E41E951C1BC01"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 1
+            }
+        }
+
+        over "mat_29F9843C2AD30FD9"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 1
+            }
+        }
+
+        over "mat_3F709A1C75DCB277"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 1
+            }
+        }
+
+        over "mat_BB780BC7196C3D4F"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 1
+            }
+        }
+
+        over "mat_7B4FFDF0F7D4B8D2"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 1
+            }
+        }
+
+        over "mat_A4A5B38296F22708"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 1
+            }
+        }
+
+        over "mat_F1751981A33F2D85"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 1
+            }
+        }
+
+        over "mat_855BCE57C0EF934E"
+        {
+            over "Shader"
+            {
+                custom asset inputs:metallic_texture = @./assets/misc_fixes/misc_fixes_interiors/misc_fixes_interiors_hospital/shinyscratches256/shinyscratches256_rough.dds@
+            }
+        }
+
+        over "mat_F7D22862D05384CF"
+        {
+            over "Shader"
+            {
+                custom float inputs:metallic_constant = 0.8
+                custom float inputs:reflection_roughness_constant = 0.2
+                asset inputs:reflectionroughness_texture = @@
+            }
+        }
+
+        over "mat_A38408EAA953FB96"
+        {
+            over "Shader"
+            {
+                custom float inputs:metallic_constant = 0.8
+                custom float inputs:reflection_roughness_constant = 0.3
+            }
+        }
+
+        over "mat_60DA1701A4F6E3EF"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.8
+            }
+        }
+
+        over "mat_D44FCF98CEFCAF64"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.8
+            }
+        }
+
+        over "mat_5829D9480B209C28"
+        {
+            over "Shader"
+            {
+                asset inputs:reflectionroughness_texture = @./assets/misc_fixes/misc_fixes_interiors/misc_fixes_interiors_hospital/ss_erwallnew1/ss_erwallnew4r_rough.dds@
+            }
+        }
+
+        over "mat_520B9CFFBCE82F41"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 1
+            }
+        }
+
+        over "mat_CAF56212B23DB1E8"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.8
+            }
+        }
+
+        over "mat_D7D94EC2EDCD3294"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 1
+            }
+        }
+
+        over "mat_35E59C9B83989B35"
+        {
+            over "Shader"
+            {
+                custom float inputs:metallic_constant = 0.8
+                custom float inputs:reflection_roughness_constant = 0.4
+                asset inputs:reflectionroughness_texture = @@
+            }
+        }
+
+        over "mat_F29E80B99956413C"
+        {
+            over "Shader"
+            {
+                custom float inputs:metallic_constant = 0.4
+            }
+        }
+
+        over "mat_D77B89505128B132"
+        {
+            over "Shader"
+            {
+                asset inputs:reflectionroughness_texture = @./assets/misc_fixes/misc_fixes_interiors/misc_fixes_interiors_hospital/ss_erwallnew4/ss_erwallnew4_rough.dds@
+            }
+        }
+
+        over "mat_A0E43DED278ADDCC"
+        {
+            over "Shader"
+            {
+                custom asset inputs:reflectionroughness_texture = @./assets/misc_fixes/misc_fixes_interiors/misc_fixes_interiors_hospital/mh_hospital05/mh_hospital05_rough.dds@
+            }
+        }
+
+        over "mat_EAE3B8CE8C173CA3"
+        {
+            over "Shader"
+            {
+                custom asset inputs:reflectionroughness_texture = @./assets/misc_fixes/misc_fixes_interiors/misc_fixes_interiors_hospital/mh_hospital07/mh_hospital07_rough.dds@
+            }
+        }
+
+        over "mat_6B7BE54DBDAD3925"
+        {
+            over "Shader"
+            {
+                custom asset inputs:reflectionroughness_texture = @./assets/misc_fixes/misc_fixes_interiors/misc_fixes_interiors_hospital/mh_hospital07/mh_hospital07_rough.dds@
+            }
+        }
+
+        over "mat_A0DF9F69F18FF1BB"
+        {
+            over "Shader"
+            {
+                custom asset inputs:reflectionroughness_texture = @./assets/misc_fixes/misc_fixes_interiors/misc_fixes_interiors_hospital/bkn_hospconc1a/bkn_hospconc1a_rough.dds@
+            }
+        }
+
+        over "mat_7489EB57806867C2"
+        {
+            over "Shader"
+            {
+                custom float inputs:metallic_constant = 0.5
+            }
+        }
+
+        over "mat_C4352CD5D3535EC1"
+        {
+            over "Shader"
+            {
+                custom float inputs:metallic_constant = 0.2
+            }
+        }
+
+        over "mat_D49405B2BDCF7EC9"
+        {
+            over "Shader"
+            {
+                custom float inputs:metallic_constant = 0.8
+                custom float inputs:reflection_roughness_constant = 0.3
+            }
+        }
+
+        over "mat_6499610B47F0389A"
+        {
+            over "Shader"
+            {
+                asset inputs:normalmap_texture = @@
+                custom float inputs:reflection_roughness_constant = 1
+                asset inputs:reflectionroughness_texture = @@
+            }
+        }
+
+        over "mat_1B52D6F9E01CB231"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.3
+            }
+        }
+
+        over "mat_877C3C6F5716219A"
+        {
+            over "Shader"
+            {
+                custom float inputs:metallic_constant = 0.7
+                custom float inputs:reflection_roughness_constant = 0.2
+            }
+        }
+
+        over "mat_B2F6F1790A49AC41" (
+            references = @./materials/AperturePBR_Translucent.usda@</Looks/mat_AperturePBR_Translucent>
+        )
+        {
+            over "Shader"
+            {
+                custom float inputs:ior_constant = 1.5
+                asset inputs:normalmap_texture = @@
+                custom bool inputs:thin_walled = 0
+                custom asset inputs:transmittance_texture = @./assets/misc_fixes/misc_fixes_interiors/misc_fixes_interiors_hospital/SS_glass4SS_glass5c_A/SS_glass4SS_glass5c_A.dds@
+                custom bool inputs:use_diffuse_layer = 1
+            }
+        }
+
+        over "mat_E3CA28427504A09F"
+        {
+            over "Shader"
+            {
+                custom float inputs:metallic_constant = 0.5
+            }
+        }
+
+        over "mat_62C6CBB2180AEBF7"
+        {
+            over "Shader"
+            {
+                asset inputs:reflectionroughness_texture = @./assets/misc_fixes/misc_fixes_interiors/misc_fixes_interiors_hospital/ss_hotelfabric2b/ss_hotelfabric2b_rough.dds@
+            }
+        }
+
+        over "mat_6BA2BD0DF1056998"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.9
+            }
+        }
+
+        over "mat_A75A575C9F17C609"
+        {
+            over "Shader"
+            {
+                asset inputs:reflectionroughness_texture = @./assets/misc_fixes/misc_fixes_interiors/misc_fixes_interiors_hospital/ss_hotelfabric2b/ss_hotelfabric2b_rough.dds@
+            }
+        }
+
+        over "mat_D072C8D856230EFB" (
+            references = @./materials/AperturePBR_Translucent.usda@</Looks/mat_AperturePBR_Translucent>
+        )
+        {
+            over "Shader"
+            {
+                custom float inputs:ior_constant = 1.5
+                custom float inputs:reflection_roughness_constant = 0.995
+                custom bool inputs:thin_walled = 0
+                custom color3f inputs:transmittance_color = (0.18532819, 0.18532632, 0.18532632)
+            }
+        }
+
+        over "mat_C25A1A313FDDF2FF"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.4
+            }
+        }
+
+        over "mat_190EE083F2AF5A7A"
+        {
+            over "Shader"
+            {
+                custom float inputs:metallic_constant = 0.3
+                custom float inputs:reflection_roughness_constant = 0
+            }
+        }
+
+        over "mat_F9CE3C8307953CE0"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.4
+            }
+        }
+
+        over "mat_F758DDF7866A18CA"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.4
+            }
+        }
+
+        over "mat_609962FA42CCFA16"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.4
+            }
+        }
+
+        over "mat_4C235CE54936507A"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.4
+            }
+        }
+
+        over "mat_7E424C01AD4423F0"
+        {
+            over "Shader"
+            {
+                custom float inputs:metallic_constant = 0.9
+            }
+        }
+
+        over "mat_7913F1670E0081DA"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.4
+            }
+        }
+
+        over "mat_E5A068B5D9DBB16F"
+        {
+            over "Shader"
+            {
+                custom float inputs:metallic_constant = 0.8
+            }
+        }
+
+        over "mat_0E7B87E91236050B"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.8
+            }
+        }
+
+        over "mat_5A3B8AEFD470A292"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.8
+            }
+        }
+
+        over "mat_6F0C200513B9C0D5"
+        {
+            over "Shader"
+            {
+                custom float inputs:metallic_constant = 0.8
+            }
+        }
+
+        over "mat_27609CDDB0145FDC"
+        {
+            over "Shader"
+            {
+                custom float inputs:metallic_constant = 0.4
+            }
+        }
+
+        over "mat_54254F98D1CE60D2"
+        {
+            over "Shader"
+            {
+                custom float inputs:metallic_constant = 0.8
+                custom float inputs:reflection_roughness_constant = 0.7
+            }
+        }
+
+        over "mat_19163B8EE70D5433"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0
+            }
+        }
+
+        over "mat_2BB3A1428B1621CB"
+        {
+            over "Shader"
+            {
+                custom float inputs:metallic_constant = 1
+            }
+        }
+
+        over "mat_E06C0057E7648E93" (
+            references = @./materials/AperturePBR_Translucent.usda@</Looks/mat_AperturePBR_Translucent>
+        )
+        {
+            over "Shader"
+            {
+                custom color3f inputs:transmittance_color = (0.41698843, 0.80685854, 1)
+            }
+        }
+
+        over "mat_865A56FDEE776972"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 1
+            }
+        }
+    }
+}
+

@@ -1,0 +1,16 @@
+#usda 1.0
+(
+    subLayers = [
+        @./misc_fixes_interiors_hospital.usda@,
+        @./misc_fixes_interiors_museum.usda@
+    ]
+    upAxis = "Z"
+)
+
+over "RootNode"
+{
+    over "Looks"
+    {
+    }
+}
+
