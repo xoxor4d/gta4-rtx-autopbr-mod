@@ -1,0 +1,35 @@
+#usda 1.0
+
+over "RootNode"
+{
+    over "Looks"
+    {
+        over "mat_DF7AF5803901F125"
+        {
+            over "Shader"
+            {
+                asset inputs:normalmap_texture = @./assets/misc_fixes/misc_fixes_environment/misc_fixes_environment_sidewalks/kerb/kerb_3/kerb3_normal.dds@
+                asset inputs:reflectionroughness_texture = @./assets/misc_fixes/misc_fixes_environment/misc_fixes_environment_sidewalks/kerb/kerb_3/kerb3_rough.dds@
+            }
+        }
+        
+        over "mat_794981FC6183104D"
+        {
+            over "Shader"
+            {
+                asset inputs:normalmap_texture = @./assets/misc_fixes/misc_fixes_environment/misc_fixes_environment_sidewalks/tf_sidewalk1/tf_sidewalk1b_normal.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets/misc_fixes/misc_fixes_environment/misc_fixes_environment_sidewalks/tf_sidewalk1/tf_sidewalk1b_rough.dds@
+            }
+        }
+
+        over "mat_E6AA395C3DEFB00F"
+        {
+            over "Shader"
+            {
+                asset inputs:normalmap_texture = @./assets/misc_fixes/misc_fixes_environment/misc_fixes_environment_sidewalks/tf_sidewalk1/tf_sidewalk1_normal.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets/misc_fixes/misc_fixes_environment/misc_fixes_environment_sidewalks/tf_sidewalk1/tf_sidewalk1_rough.dds@
+            }
+        }
+    }
+}
+

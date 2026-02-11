@@ -1,5 +1,13 @@
 #usda 1.0
 (
+    subLayers = [
+        @./misc_fixes_environment_sidewalks.usda@,
+        @./misc_fixes_environment_grass.usda@,
+        @./misc_fixes_environment_glue.usda@,
+        @./misc_fixes_environment_ground.usda@,
+        @./misc_fixes_environment_roads.usda@,
+        @./misc_fixes_environment_parks.usda@
+    ]
     upAxis = "Z"
 )
 
@@ -15,7 +23,7 @@ over "RootNode"
                 asset inputs:reflectionroughness_texture = @./assets/autoconv/B2B225BABE16AA98_chG_rough.dds@
             }
         }
-        
+
         over "mat_B10DE587CB2467BD"
         {
             over "Shader"
@@ -48,7 +56,6 @@ over "RootNode"
                 asset inputs:normalmap_texture = @@
             }
         }
-
 
         over "mat_395578293EDE1C85"
         {
