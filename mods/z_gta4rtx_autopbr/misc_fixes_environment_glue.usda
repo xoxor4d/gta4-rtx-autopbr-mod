@@ -3,3 +3,18 @@
     upAxis = "Z"
 )
 
+over "RootNode"
+{
+    over "Looks"
+    {
+        over "mat_C57AAA7E44481B85"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 1
+                custom asset inputs:reflectionroughness_texture = @./assets/misc_fixes/misc_fixes_environment/misc_fixes_environment_glue/glue/glue_rough.dds@
+            }
+        }
+    }
+}
+

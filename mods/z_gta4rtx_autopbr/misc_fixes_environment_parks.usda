@@ -15,6 +15,14 @@ over "RootNode"
                 asset inputs:reflectionroughness_texture = @./assets/misc_fixes/misc_fixes_environment/misc_fixes_environment_parks/nt_redbrick/nt_redbrick_rough.dds@
             }
         }
+
+        over "mat_544B45815C2194CC"
+        {
+            over "Shader"
+            {
+                custom asset inputs:reflectionroughness_texture = @./assets/misc_fixes/misc_fixes_environment/misc_fixes_environment_parks/qw_bigtower4/qw_bigtower4_rough.dds@
+            }
+        }
     }
 }
 

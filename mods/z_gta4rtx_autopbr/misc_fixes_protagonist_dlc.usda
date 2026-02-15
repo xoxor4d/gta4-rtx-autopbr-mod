@@ -13,7 +13,6 @@ over "RootNode"
             {
                 custom float inputs:metallic_constant = 0.1
                 custom float inputs:reflection_roughness_constant = 0.9
-                custom bool inputs:use_legacy_alpha_state = 1
             }
         }
     }
