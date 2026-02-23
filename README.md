@@ -14,7 +14,7 @@ to convert dx9 normalmaps to remix compatible normalmaps and specularmaps were c
 ##  Credits
 - [NVIDIA - RTX Remix](https://github.com/NVIDIAGameWorks/rtx-remix)
 - [People of the showcase discord](https://discord.gg/j6sh7JD3v9) - especially the nvidia engineers ✌️
-- [danlopand](https://github.com/DANLOPAND) - multiple PR's 👍
+- [Danlopand / Thundery_Dan](https://github.com/DANLOPAND) - multiple PR's 👍
 - All 🍓 Testers
 
 <br>
