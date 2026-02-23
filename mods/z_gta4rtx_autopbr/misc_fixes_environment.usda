@@ -102,7 +102,6 @@ over "RootNode"
             over "Shader"
             {
                 asset inputs:normalmap_texture = @./assets/autoconv/553A7B6228C6AE90_normal_oth.dds@
-                custom bool inputs:use_legacy_alpha_state = 0
             }
         }
 

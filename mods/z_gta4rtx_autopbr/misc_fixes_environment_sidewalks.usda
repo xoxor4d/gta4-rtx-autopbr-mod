@@ -12,7 +12,7 @@ over "RootNode"
                 asset inputs:reflectionroughness_texture = @./assets/misc_fixes/misc_fixes_environment/misc_fixes_environment_sidewalks/kerb/kerb_3/kerb3_rough.dds@
             }
         }
-        
+
         over "mat_794981FC6183104D"
         {
             over "Shader"
@@ -28,6 +28,54 @@ over "RootNode"
             {
                 asset inputs:normalmap_texture = @./assets/misc_fixes/misc_fixes_environment/misc_fixes_environment_sidewalks/tf_sidewalk1/tf_sidewalk1_normal.dds@
                 custom asset inputs:reflectionroughness_texture = @./assets/misc_fixes/misc_fixes_environment/misc_fixes_environment_sidewalks/tf_sidewalk1/tf_sidewalk1_rough.dds@
+            }
+        }
+
+        over "mat_BBF7D8114F605CDA"
+        {
+            over "Shader"
+            {
+                custom asset inputs:reflectionroughness_texture = @./assets/misc_fixes/misc_fixes_environment/misc_fixes_environment_sidewalks/qw_astpath/qw_astpath2/qw_astpath2_rough.dds@
+            }
+        }
+
+        over "mat_3EE052E75FA72A98"
+        {
+            over "Shader"
+            {
+                custom asset inputs:reflectionroughness_texture = @./assets/misc_fixes/misc_fixes_environment/misc_fixes_environment_sidewalks/qw_astpath/qw_astpath2_1/qw_astpath2_1_rough.dds@
+            }
+        }
+
+        over "mat_2982BE55AF98A435"
+        {
+            over "Shader"
+            {
+                custom asset inputs:reflectionroughness_texture = @./assets/misc_fixes/misc_fixes_environment/misc_fixes_environment_sidewalks/qw_astpath/qw_corner/qw_corner_rough.dds@
+            }
+        }
+
+        over "mat_A2AE1D72DED716D4"
+        {
+            over "Shader"
+            {
+                custom asset inputs:reflectionroughness_texture = @./assets/misc_fixes/misc_fixes_environment/misc_fixes_environment_sidewalks/qw_astpath/qw_astpath4/qw_astpath4_rough.dds@
+            }
+        }
+
+        over "mat_5502CD1107523D41"
+        {
+            over "Shader"
+            {
+                custom asset inputs:reflectionroughness_texture = @./assets/misc_fixes/misc_fixes_environment/misc_fixes_environment_sidewalks/qw_astpath/qw_astpath4_1/qw_astpath4_1_rough.dds@
+            }
+        }
+
+        over "mat_D4E0CC7FB40623CE"
+        {
+            over "Shader"
+            {
+                custom asset inputs:reflectionroughness_texture = @./assets/misc_fixes/misc_fixes_environment/misc_fixes_environment_sidewalks/qw_astpath/qw_astpath3/qw_astpath3_rough.dds@
             }
         }
     }
