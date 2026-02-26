@@ -71,6 +71,30 @@ over "RootNode"
                 custom float inputs:reflection_roughness_constant = 1
             }
         }
+
+        over "mat_4240E7BF5EE4D419"
+        {
+            over "Shader"
+            {
+                asset inputs:reflectionroughness_texture = @./assets/misc_fixes/misc_fixes_environment/misc_fixes_environment_grass/sl_cp_grass01/sl_cp_grass01_rough.dds@
+            }
+        }
+
+        over "mat_31309BA1CD7A6C6C"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 1
+            }
+        }
+
+        over "mat_9781D265977F4005"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 1
+            }
+        }
     }
 }
 
