@@ -7,6 +7,13 @@ over "RootNode"
 {
     over "Looks"
     {
+        over "mat_CF2536F1F8756B0F"
+        {
+            over "Shader"
+            {
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/8F9330F603EDE755_chB_rough.dds@
+            }
+        }
     }
 }
 

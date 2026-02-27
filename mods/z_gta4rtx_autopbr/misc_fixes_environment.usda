@@ -6,7 +6,8 @@
         @./misc_fixes_environment_glue.usda@,
         @./misc_fixes_environment_ground.usda@,
         @./misc_fixes_environment_roads.usda@,
-        @./misc_fixes_environment_parks.usda@
+        @./misc_fixes_environment_parks.usda@,
+        @./misc_fixes_environment_buildings.usda@
     ]
     upAxis = "Z"
 )
