@@ -12,6 +12,7 @@ over "RootNode"
             over "Shader"
             {
                 asset inputs:reflectionroughness_texture = @./assets/autoconv/8F9330F603EDE755_chB_rough.dds@
+                asset inputs:normalmap_texture = @./assets/autoconv/EC9D8C5A17718981_normal_oth.dds@
             }
         }
     }
