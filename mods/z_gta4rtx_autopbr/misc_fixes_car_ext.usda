@@ -25,6 +25,7 @@ over "RootNode"
                 asset inputs:diffuse_texture = @./assets/misc_fixes/misc_fixes_car_ext/tyrewall/vehicle_generic_tyrewallblack_diffuse.dds@
                 custom asset inputs:metallic_texture = @./assets/misc_fixes/misc_fixes_car_ext/tyrewall/vehicle_generic_tyrewall_metal.dds@
                 asset inputs:reflectionroughness_texture = @./assets/misc_fixes/misc_fixes_car_ext/tyrewall/vehicle_generic_tyrewall_rough.dds@
+                asset inputs:normalmap_texture = @./assets/autoconv/F35DA5478DCED220_normal_oth.dds@
             }
         }
 
@@ -35,6 +36,7 @@ over "RootNode"
                 asset inputs:diffuse_texture = @./assets/misc_fixes/misc_fixes_car_ext/tyrewall/virgo_tyrewhitewall_diffuse.dds@
                 custom asset inputs:metallic_texture = @./assets/misc_fixes/misc_fixes_car_ext/tyrewall/vehicle_generic_tyrewall_metal.dds@
                 asset inputs:reflectionroughness_texture = @./assets/misc_fixes/misc_fixes_car_ext/tyrewall/vehicle_generic_tyrewall_rough.dds@
+                asset inputs:normalmap_texture = @./assets/autoconv/F35DA5478DCED220_normal_oth.dds@
             }
         }
     }

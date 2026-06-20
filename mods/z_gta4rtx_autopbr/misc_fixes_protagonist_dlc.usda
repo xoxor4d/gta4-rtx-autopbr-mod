@@ -13,6 +13,7 @@ over "RootNode"
             {
                 custom float inputs:metallic_constant = 0.1
                 custom float inputs:reflection_roughness_constant = 0.9
+                asset inputs:normalmap_texture = @./assets/autoconv/DE6E69F7F061098D_normal_oth.dds@
             }
         }
     }

@@ -13,6 +13,7 @@ over "RootNode"
             {
                 custom float inputs:reflection_roughness_constant = 1
                 custom asset inputs:reflectionroughness_texture = @./assets/misc_fixes/misc_fixes_environment/misc_fixes_environment_glue/glue/glue_rough.dds@
+                asset inputs:normalmap_texture = @./assets/autoconv/9C6ECA2D8E3F9B08_normal_oth.dds@
             }
         }
     }

@@ -76,6 +76,7 @@ over "RootNode"
             {
                 custom float inputs:reflection_roughness_constant = 0.7
                 asset inputs:reflectionroughness_texture = @@
+                asset inputs:normalmap_texture = @./assets/autoconv/64BDCEF4B76587C6_normal_oth.dds@
             }
         }
 
@@ -275,6 +276,7 @@ over "RootNode"
             {
                 custom float inputs:reflection_roughness_constant = 0.7
                 asset inputs:reflectionroughness_texture = @@
+                asset inputs:normalmap_texture = @./assets/autoconv/23E508F9DF2B486E_normal_oth.dds@
             }
         }
 
@@ -311,6 +313,7 @@ over "RootNode"
             {
                 custom float inputs:reflection_roughness_constant = 0.7
                 asset inputs:reflectionroughness_texture = @@
+                asset inputs:normalmap_texture = @./assets/autoconv/64BDCEF4B76587C6_normal_oth.dds@
             }
         }
 
@@ -492,6 +495,7 @@ over "RootNode"
             {
                 custom float inputs:reflection_roughness_constant = 0.7
                 asset inputs:reflectionroughness_texture = @@
+                asset inputs:normalmap_texture = @./assets/autoconv/64BDCEF4B76587C6_normal_oth.dds@
             }
         }
     }

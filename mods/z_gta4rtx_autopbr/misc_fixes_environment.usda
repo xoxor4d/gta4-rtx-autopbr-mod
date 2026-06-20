@@ -30,6 +30,7 @@ over "RootNode"
             over "Shader"
             {
                 custom float inputs:reflection_roughness_constant = 0.8
+                asset inputs:normalmap_texture = @./assets/autoconv/D55CB425973F148D_normal_oth.dds@
             }
         }
 
@@ -38,6 +39,7 @@ over "RootNode"
             over "Shader"
             {
                 custom float inputs:reflection_roughness_constant = 0.9
+                asset inputs:normalmap_texture = @./assets/autoconv/E7BA32A6C1567030_normal_oth.dds@
             }
         }
 
@@ -55,6 +57,7 @@ over "RootNode"
             over "Shader"
             {
                 asset inputs:normalmap_texture = @@
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/6A73DD4BAB09C711_chG_rough.dds@
             }
         }
 
@@ -71,6 +74,7 @@ over "RootNode"
             over "Shader"
             {
                 custom float inputs:reflection_roughness_constant = 0.8
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/F899ABDA11490634_chB_rough.dds@
             }
         }
 
@@ -79,6 +83,7 @@ over "RootNode"
             over "Shader"
             {
                 asset inputs:normalmap_texture = @@
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/B2CAE91C59DB7259_chR_rough.dds@
             }
         }
 
@@ -87,6 +92,7 @@ over "RootNode"
             over "Shader"
             {
                 asset inputs:normalmap_texture = @./assets/autoconv/A72228AAB4AD82C3_normal_oth.dds@
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/B9C8CD379535D773_chR_rough.dds@
             }
         }
 
@@ -95,6 +101,7 @@ over "RootNode"
             over "Shader"
             {
                 asset inputs:normalmap_texture = @./assets/autoconv/A72228AAB4AD82C3_normal_oth.dds@
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/1EF50D333152BB51_chB_rough.dds@
             }
         }
 
@@ -121,6 +128,7 @@ over "RootNode"
             {
                 asset inputs:reflectionroughness_texture = @./assets/autoconv/B6BF525B2D7597D4_chR_rough.dds@
                 custom float inputs:metallic_constant = 0.60499996
+                asset inputs:normalmap_texture = @./assets/autoconv/FC9683F485BEE40C_normal_oth.dds@
             }
         }
 

@@ -36,6 +36,7 @@ over "RootNode"
             over "Shader"
             {
                 custom asset inputs:reflectionroughness_texture = @./assets/misc_fixes/misc_fixes_environment/misc_fixes_environment_sidewalks/qw_astpath/qw_astpath2/qw_astpath2_rough.dds@
+                asset inputs:normalmap_texture = @./assets/autoconv/49D2602272CF10D3_normal_oth.dds@
             }
         }
 
@@ -44,6 +45,7 @@ over "RootNode"
             over "Shader"
             {
                 custom asset inputs:reflectionroughness_texture = @./assets/misc_fixes/misc_fixes_environment/misc_fixes_environment_sidewalks/qw_astpath/qw_astpath2_1/qw_astpath2_1_rough.dds@
+                asset inputs:normalmap_texture = @./assets/autoconv/FF96DD5D39D1B88D_normal_oth.dds@
             }
         }
 
@@ -52,6 +54,7 @@ over "RootNode"
             over "Shader"
             {
                 custom asset inputs:reflectionroughness_texture = @./assets/misc_fixes/misc_fixes_environment/misc_fixes_environment_sidewalks/qw_astpath/qw_corner/qw_corner_rough.dds@
+                asset inputs:normalmap_texture = @./assets/autoconv/6A6BEFB8AF11AFB6_normal_oth.dds@
             }
         }
 
@@ -60,6 +63,7 @@ over "RootNode"
             over "Shader"
             {
                 custom asset inputs:reflectionroughness_texture = @./assets/misc_fixes/misc_fixes_environment/misc_fixes_environment_sidewalks/qw_astpath/qw_astpath4/qw_astpath4_rough.dds@
+                asset inputs:normalmap_texture = @./assets/autoconv/A39F7C891D9FDFF2_normal_oth.dds@
             }
         }
 
@@ -68,6 +72,7 @@ over "RootNode"
             over "Shader"
             {
                 custom asset inputs:reflectionroughness_texture = @./assets/misc_fixes/misc_fixes_environment/misc_fixes_environment_sidewalks/qw_astpath/qw_astpath4_1/qw_astpath4_1_rough.dds@
+                asset inputs:normalmap_texture = @./assets/autoconv/E0D8E9CF4D29CB3C_normal_oth.dds@
             }
         }
 
@@ -76,6 +81,7 @@ over "RootNode"
             over "Shader"
             {
                 custom asset inputs:reflectionroughness_texture = @./assets/misc_fixes/misc_fixes_environment/misc_fixes_environment_sidewalks/qw_astpath/qw_astpath3/qw_astpath3_rough.dds@
+                asset inputs:normalmap_texture = @./assets/autoconv/840E8380BC055B02_normal_oth.dds@
             }
         }
 

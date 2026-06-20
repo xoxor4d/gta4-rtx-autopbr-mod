@@ -12,6 +12,7 @@ over "RootNode"
             over "Shader"
             {
                 asset inputs:normalmap_texture = @./assets/autoconv/D12C280060B187F6_normal_oth.dds@
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/866240B8C4F8FE54_chG_rough.dds@
             }
         }
 
@@ -20,6 +21,7 @@ over "RootNode"
             over "Shader"
             {
                 asset inputs:normalmap_texture = @./assets/autoconv/D12C280060B187F6_normal_oth.dds@
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/7E9BE028E4C39D25_chG_rough.dds@
             }
         }
 
@@ -28,6 +30,7 @@ over "RootNode"
             over "Shader"
             {
                 asset inputs:normalmap_texture = @./assets/autoconv/D12C280060B187F6_normal_oth.dds@
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/798533EEC64A87E0_chB_rough.dds@
             }
         }
 
@@ -171,6 +174,8 @@ over "RootNode"
             over "Shader"
             {
                 custom asset inputs:metallic_texture = @./assets/misc_fixes/misc_fixes_environment/misc_fixes_environment_buildings/bm_ventstacker/bm_ventstacker_metal.dds@
+                asset inputs:normalmap_texture = @./assets/autoconv/2341D637FD690AB1_normal_oth.dds@
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/F2D3B1B6FAA5E1B0_chR_rough.dds@
             }
         }
 
@@ -226,6 +231,7 @@ over "RootNode"
             over "Shader"
             {
                 custom float inputs:reflection_roughness_constant = 0.8
+                asset inputs:normalmap_texture = @./assets/autoconv/E8DA4DF9CFBB48F9_normal_oth.dds@
             }
         }
 
@@ -234,6 +240,7 @@ over "RootNode"
             over "Shader"
             {
                 custom float inputs:reflection_roughness_constant = 0.7
+                asset inputs:normalmap_texture = @./assets/autoconv/33C1D0EAD9929D46_normal_oth.dds@
             }
         }
 
@@ -242,6 +249,7 @@ over "RootNode"
             over "Shader"
             {
                 custom asset inputs:metallic_texture = @./assets/misc_fixes/misc_fixes_environment/misc_fixes_environment_buildings/bm_ventsystem/bm_ventsystem_metal.dds@
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/7698DB792E6BD9F9_chR_rough.dds@
             }
         }
 

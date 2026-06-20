@@ -61,6 +61,7 @@ over "RootNode"
             over "Shader"
             {
                 asset inputs:reflectionroughness_texture = @./assets/misc_fixes/misc_fixes_interiors/misc_fixes_interiors_hospital/ss_erwallsnew2/ss_erwallsnew2b_rough.dds@
+                asset inputs:normalmap_texture = @./assets/autoconv/EF0CA13C85894D1F_normal_oth.dds@
             }
         }
 
@@ -69,6 +70,7 @@ over "RootNode"
             over "Shader"
             {
                 asset inputs:reflectionroughness_texture = @./assets/misc_fixes/misc_fixes_interiors/misc_fixes_interiors_hospital/ss_erwallsnew2/ss_erwallsnew2b_rough.dds@
+                asset inputs:normalmap_texture = @./assets/autoconv/EF0CA13C85894D1F_normal_oth.dds@
             }
         }
 
@@ -149,6 +151,7 @@ over "RootNode"
             over "Shader"
             {
                 custom asset inputs:metallic_texture = @./assets/misc_fixes/misc_fixes_interiors/misc_fixes_interiors_hospital/shinyscratches256/shinyscratches256_rough.dds@
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/AAD5314EF171CF02_chR_rough.dds@
             }
         }
 
@@ -158,6 +161,7 @@ over "RootNode"
             {
                 custom float inputs:metallic_constant = 0.8
                 custom float inputs:reflection_roughness_constant = 0.3
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/E910660B2E1A8553_chR_rough.dds@
             }
         }
 
@@ -166,6 +170,7 @@ over "RootNode"
             over "Shader"
             {
                 custom float inputs:reflection_roughness_constant = 0.8
+                asset inputs:normalmap_texture = @./assets/autoconv/AC6CEE66526B6649_normal_oth.dds@
             }
         }
 
@@ -174,6 +179,7 @@ over "RootNode"
             over "Shader"
             {
                 custom float inputs:reflection_roughness_constant = 0.8
+                asset inputs:normalmap_texture = @./assets/autoconv/AC6CEE66526B6649_normal_oth.dds@
             }
         }
 
@@ -182,6 +188,7 @@ over "RootNode"
             over "Shader"
             {
                 asset inputs:reflectionroughness_texture = @./assets/misc_fixes/misc_fixes_interiors/misc_fixes_interiors_hospital/ss_erwallnew1/ss_erwallnew4r_rough.dds@
+                asset inputs:normalmap_texture = @./assets/autoconv/595CBAA03E99F9DE_normal_oth.dds@
             }
         }
 
@@ -198,6 +205,7 @@ over "RootNode"
             over "Shader"
             {
                 custom float inputs:reflection_roughness_constant = 0.8
+                asset inputs:normalmap_texture = @./assets/autoconv/AC6CEE66526B6649_normal_oth.dds@
             }
         }
 
@@ -216,6 +224,7 @@ over "RootNode"
                 custom float inputs:metallic_constant = 0.8
                 custom float inputs:reflection_roughness_constant = 0.4
                 asset inputs:reflectionroughness_texture = @@
+                asset inputs:normalmap_texture = @./assets/autoconv/128157C02BB185F5_normal_oth.dds@
             }
         }
 
@@ -224,6 +233,7 @@ over "RootNode"
             over "Shader"
             {
                 custom float inputs:metallic_constant = 0.4
+                asset inputs:normalmap_texture = @./assets/autoconv/756E3D107D7EE472_normal_oth.dds@
             }
         }
 
@@ -232,6 +242,7 @@ over "RootNode"
             over "Shader"
             {
                 asset inputs:reflectionroughness_texture = @./assets/misc_fixes/misc_fixes_interiors/misc_fixes_interiors_hospital/ss_erwallnew4/ss_erwallnew4_rough.dds@
+                asset inputs:normalmap_texture = @./assets/autoconv/EF0CA13C85894D1F_normal_oth.dds@
             }
         }
 
@@ -280,6 +291,8 @@ over "RootNode"
             over "Shader"
             {
                 custom float inputs:metallic_constant = 0.2
+                asset inputs:normalmap_texture = @./assets/autoconv/A2093C5179852EDB_normal_oth.dds@
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/B1C625C17141B5B6_chR_rough.dds@
             }
         }
 
@@ -316,6 +329,7 @@ over "RootNode"
             {
                 custom float inputs:metallic_constant = 0.7
                 custom float inputs:reflection_roughness_constant = 0.2
+                asset inputs:normalmap_texture = @./assets/autoconv/7AAF1665CAD26790_normal_oth.dds@
             }
         }
 
@@ -338,6 +352,8 @@ over "RootNode"
             over "Shader"
             {
                 custom float inputs:metallic_constant = 0.5
+                asset inputs:normalmap_texture = @./assets/autoconv/6E30727FA7595CB4_normal_oth.dds@
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/4E2B089F39F12306_chR_rough.dds@
             }
         }
 
@@ -346,6 +362,7 @@ over "RootNode"
             over "Shader"
             {
                 asset inputs:reflectionroughness_texture = @./assets/misc_fixes/misc_fixes_interiors/misc_fixes_interiors_hospital/ss_hotelfabric2b/ss_hotelfabric2b_rough.dds@
+                asset inputs:normalmap_texture = @./assets/autoconv/9E88DBD41363A27B_normal_oth.dds@
             }
         }
 
@@ -354,6 +371,7 @@ over "RootNode"
             over "Shader"
             {
                 custom float inputs:reflection_roughness_constant = 0.9
+                asset inputs:normalmap_texture = @./assets/autoconv/6E49D4AEE4C28287_normal_oth.dds@
             }
         }
 
@@ -362,6 +380,7 @@ over "RootNode"
             over "Shader"
             {
                 asset inputs:reflectionroughness_texture = @./assets/misc_fixes/misc_fixes_interiors/misc_fixes_interiors_hospital/ss_hotelfabric2b/ss_hotelfabric2b_rough.dds@
+                asset inputs:normalmap_texture = @./assets/autoconv/9E88DBD41363A27B_normal_oth.dds@
             }
         }
 
@@ -383,6 +402,7 @@ over "RootNode"
             over "Shader"
             {
                 custom float inputs:reflection_roughness_constant = 0.4
+                asset inputs:normalmap_texture = @./assets/autoconv/CBD8748E18E0AEE5_normal_oth.dds@
             }
         }
 
@@ -416,6 +436,7 @@ over "RootNode"
             over "Shader"
             {
                 custom float inputs:reflection_roughness_constant = 0.4
+                asset inputs:normalmap_texture = @./assets/autoconv/518334D078642875_normal_oth.dds@
             }
         }
 
@@ -432,6 +453,7 @@ over "RootNode"
             over "Shader"
             {
                 custom float inputs:metallic_constant = 0.9
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/4D4134F70095D9F3_chR_rough.dds@
             }
         }
 
@@ -440,6 +462,7 @@ over "RootNode"
             over "Shader"
             {
                 custom float inputs:reflection_roughness_constant = 0.4
+                asset inputs:normalmap_texture = @./assets/autoconv/3D30B525086C9637_normal_oth.dds@
             }
         }
 
@@ -448,6 +471,8 @@ over "RootNode"
             over "Shader"
             {
                 custom float inputs:metallic_constant = 0.8
+                asset inputs:normalmap_texture = @./assets/autoconv/7992EE0288330C4F_normal_oth.dds@
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/AB1354D111991C36_chG_rough.dds@
             }
         }
 
@@ -456,6 +481,7 @@ over "RootNode"
             over "Shader"
             {
                 custom float inputs:reflection_roughness_constant = 0.8
+                asset inputs:normalmap_texture = @./assets/autoconv/4A048673C1DF2E00_normal_oth.dds@
             }
         }
 
@@ -464,6 +490,7 @@ over "RootNode"
             over "Shader"
             {
                 custom float inputs:reflection_roughness_constant = 0.8
+                asset inputs:normalmap_texture = @./assets/autoconv/AC77467F63A552D4_normal_oth.dds@
             }
         }
 
@@ -472,6 +499,8 @@ over "RootNode"
             over "Shader"
             {
                 custom float inputs:metallic_constant = 0.8
+                asset inputs:normalmap_texture = @./assets/autoconv/7AE40F2FEFB73EF0_normal_oth.dds@
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/57D2CC6BA62583CC_chR_rough.dds@
             }
         }
 
@@ -480,6 +509,8 @@ over "RootNode"
             over "Shader"
             {
                 custom float inputs:metallic_constant = 0.4
+                asset inputs:normalmap_texture = @./assets/autoconv/13A6FE17A5547165_normal_oth.dds@
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/DDB96E482262C057_chR_rough.dds@
             }
         }
 
@@ -497,6 +528,7 @@ over "RootNode"
             over "Shader"
             {
                 custom float inputs:reflection_roughness_constant = 0
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/CE89178D35657F93_chR_rough.dds@
             }
         }
 
@@ -505,6 +537,7 @@ over "RootNode"
             over "Shader"
             {
                 custom float inputs:metallic_constant = 1
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/DDE33EC75A4F40EC_chR_rough.dds@
             }
         }
 
@@ -523,6 +556,7 @@ over "RootNode"
             over "Shader"
             {
                 custom float inputs:reflection_roughness_constant = 1
+                asset inputs:normalmap_texture = @./assets/autoconv/331128033B78D6C8_normal_oth.dds@
             }
         }
     }

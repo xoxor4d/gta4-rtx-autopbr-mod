@@ -29,6 +29,7 @@ over "RootNode"
             {
                 custom float inputs:reflection_roughness_constant = 0.29
                 asset inputs:reflectionroughness_texture = @./assets/misc_fixes/misc_fixes_interiors/misc_fixes_interiors_museum/tl_lobby_marble1/tl_lobby_marble1_rough.dds@
+                asset inputs:normalmap_texture = @./assets/autoconv/A6BAB61A05BD32E9_normal_oth.dds@
             }
         }
     }

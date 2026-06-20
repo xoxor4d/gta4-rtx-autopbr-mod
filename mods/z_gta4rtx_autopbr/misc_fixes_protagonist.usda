@@ -17,6 +17,7 @@ over "RootNode"
                 custom float inputs:metallic_constant = 0.2
                 custom float inputs:reflection_roughness_constant = 0.825
                 custom asset inputs:reflectionroughness_texture = @./assets/misc_fixes/misc_fixes_protagonist/head_diff_000/hair_diff_000_rough.dds@
+                asset inputs:normalmap_texture = @./assets/autoconv/6E860BC80C01F80A_normal_oth.dds@
             }
         }
     }

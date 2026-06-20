@@ -21,6 +21,7 @@ over "RootNode"
             over "Shader"
             {
                 custom asset inputs:reflectionroughness_texture = @./assets/misc_fixes/misc_fixes_environment/misc_fixes_environment_parks/qw_bigtower4/qw_bigtower4_rough.dds@
+                asset inputs:normalmap_texture = @./assets/autoconv/0A9F52C84EEF7B0A_normal_oth.dds@
             }
         }
 
@@ -39,6 +40,7 @@ over "RootNode"
             over "Shader"
             {
                 asset inputs:reflectionroughness_texture = @./assets/misc_fixes/misc_fixes_environment/misc_fixes_environment_parks/mh_cp_foutnain/mh_cp_foutnain_rough.dds@
+                asset inputs:normalmap_texture = @./assets/autoconv/7696B74098BAE6C2_normal_oth.dds@
             }
         }
 
@@ -56,6 +58,7 @@ over "RootNode"
             over "Shader"
             {
                 asset inputs:reflectionroughness_texture = @./assets/misc_fixes/misc_fixes_environment/misc_fixes_environment_parks/tf_diner_pave/tf_diner_pave_rough.dds@
+                asset inputs:normalmap_texture = @./assets/autoconv/7696B74098BAE6C2_normal_oth.dds@
             }
         }
     }

@@ -21,6 +21,7 @@ over "RootNode"
             {
                 custom float inputs:reflection_roughness_constant = 1
                 asset inputs:reflectionroughness_texture = @@
+                asset inputs:normalmap_texture = @./assets/autoconv/69AB6DBCAE00C443_normal_oth.dds@
             }
         }
 
@@ -45,6 +46,7 @@ over "RootNode"
             over "Shader"
             {
                 custom float inputs:reflection_roughness_constant = 1
+                asset inputs:normalmap_texture = @./assets/autoconv/69AB6DBCAE00C443_normal_oth.dds@
             }
         }
 
@@ -69,6 +71,7 @@ over "RootNode"
             over "Shader"
             {
                 custom float inputs:reflection_roughness_constant = 1
+                asset inputs:normalmap_texture = @./assets/autoconv/E15767446BF505A5_normal_oth.dds@
             }
         }
 
