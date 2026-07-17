@@ -1,0 +1,139 @@
+#usda 1.0
+(
+    upAxis = "Z"
+)
+
+over "RootNode"
+{
+    over "Looks"
+    {
+        over "mat_3C68C38A94101E94"
+        {
+            over "Shader"
+            {
+                custom asset inputs:reflectionroughness_texture = @./assets/fixes/environment/lods/njdock_ground_old_rough.r.rtex.dds@
+            }
+        }
+
+        over "mat_A36D7158DC5E319E"
+        {
+            over "Shader"
+            {
+                custom asset inputs:reflectionroughness_texture = @./assets/fixes/environment/lods/et_dockmain01_rough.r.rtex.dds@
+            }
+        }
+
+        over "mat_34ADEFF7C8313E86"
+        {
+            over "Shader"
+            {
+                custom asset inputs:reflectionroughness_texture = @./assets/fixes/environment/lods/et_dockmain01_rough.r.rtex.dds@
+            }
+        }
+
+        over "mat_9E0207A63624BCAD"
+        {
+            over "Shader"
+            {
+                custom asset inputs:reflectionroughness_texture = @./assets/fixes/environment/lods/et_dockmain01_rough.r.rtex.dds@
+            }
+        }
+
+        over "mat_37A5114F3A700074"
+        {
+            over "Shader"
+            {
+                custom asset inputs:reflectionroughness_texture = @./assets/fixes/environment/lods/et_dockmain01_rough.r.rtex.dds@
+            }
+        }
+
+        over "mat_340DB25A16D264E3"
+        {
+            over "Shader"
+            {
+                custom asset inputs:reflectionroughness_texture = @./assets/fixes/environment/lods/et_dockmain01_rough.r.rtex.dds@
+            }
+        }
+
+        over "mat_B69481AB71F45B9E"
+        {
+            over "Shader"
+            {
+                custom asset inputs:reflectionroughness_texture = @./assets/fixes/environment/lods/et_dockmain01_rough.r.rtex.dds@
+            }
+        }
+
+        over "mat_75A274C182575292"
+        {
+            over "Shader"
+            {
+                custom asset inputs:reflectionroughness_texture = @./assets/fixes/environment/lods/et_dockmain01_rough.r.rtex.dds@
+            }
+        }
+
+        over "mat_A10FBDFD09B0C1A2"
+        {
+            over "Shader"
+            {
+                custom asset inputs:reflectionroughness_texture = @./assets/fixes/environment/lods/et_dockmain01_rough.r.rtex.dds@
+            }
+        }
+
+        over "mat_76B77BFA544DE57C"
+        {
+            over "Shader"
+            {
+                custom asset inputs:reflectionroughness_texture = @./assets/fixes/environment/lods/njdock_grassworn_rough.r.rtex.dds@
+            }
+        }
+
+        over "mat_98A1DC9E8090ED09"
+        {
+            over "Shader"
+            {
+                custom asset inputs:reflectionroughness_texture = @./assets/fixes/environment/lods/njdock_grassworn_rough.r.rtex.dds@
+            }
+        }
+
+        over "mat_19CEFFED0C1CA620"
+        {
+            over "Shader"
+            {
+                custom asset inputs:reflectionroughness_texture = @./assets/fixes/environment/lods/njdock_grassworn_rough.r.rtex.dds@
+            }
+        }
+
+        over "mat_8881EC4E81F85B1B"
+        {
+            over "Shader"
+            {
+                custom asset inputs:reflectionroughness_texture = @./assets/fixes/environment/lods/nj01_grass2_rough.r.rtex.dds@
+            }
+        }
+
+        over "mat_89D39A716B84FB59"
+        {
+            over "Shader"
+            {
+                custom asset inputs:reflectionroughness_texture = @./assets/fixes/environment/lods/nj01_grass2_rough.r.rtex.dds@
+            }
+        }
+
+        over "mat_70962AFD0E3172C3"
+        {
+            over "Shader"
+            {
+                custom asset inputs:reflectionroughness_texture = @./assets/fixes/environment/lods/njdock_grassworn_rough.r.rtex.dds@
+            }
+        }
+
+        over "mat_18D3442C42C7EF0F"
+        {
+            over "Shader"
+            {
+                custom asset inputs:reflectionroughness_texture = @./assets/fixes/environment/lods/nj01_grass2_rough.r.rtex.dds@
+            }
+        }
+    }
+}
+

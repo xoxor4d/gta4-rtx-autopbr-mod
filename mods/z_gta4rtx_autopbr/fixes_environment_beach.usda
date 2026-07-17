@@ -1,0 +1,95 @@
+#usda 1.0
+(
+    upAxis = "Z"
+)
+
+over "RootNode"
+{
+    over "Looks"
+    {
+        over "mat_4DABA813D9B08DF3"
+        {
+            over "Shader"
+            {
+                custom float inputs:displace_in = 0.015
+                custom float inputs:displace_out = 0.015
+                custom asset inputs:height_texture = @./assets/fixes/environment/beach/am_fm1_sand/am_fm1_sand_height.h.rtex.dds@
+                asset inputs:normalmap_texture = @./assets/autoconv/7F344F248CC3F845_normal_oth.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets/fixes/environment/beach/am_fm1_sand/am_fm1_sand_rough.r.rtex.dds@
+            }
+        }
+
+        over "mat_48D62BB24558A068"
+        {
+            over "Shader"
+            {
+                custom float inputs:displace_in = 0.017
+                custom float inputs:displace_out = 0.02
+                custom asset inputs:height_texture = @./assets/fixes/environment/beach/nj01_sand06/nj01_sand06_height.h.rtex.dds@
+                asset inputs:normalmap_texture = @./assets/autoconv/04C7A77CBA3D9E73_normal_oth.dds@
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/3B52F8518C8C92C5_chR_rough.dds@
+            }
+        }
+
+        over "mat_F4CD9A9FFC4C7E61"
+        {
+            over "Shader"
+            {
+                custom float inputs:displace_in = 0.022
+                custom float inputs:displace_out = 0.022
+                custom asset inputs:height_texture = @./assets/fixes/environment/beach/nj01_sand01/nj01_sand01_height.h.rtex.dds@
+                asset inputs:normalmap_texture = @./assets/autoconv/C376EDA75CAF9699_normal_oth.dds@
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/A33619DC794F6F38_chB_rough.dds@
+            }
+        }
+
+        over "mat_CD8716783A9B2EE7"
+        {
+            over "Shader"
+            {
+                custom float inputs:displace_in = 0.014
+                custom float inputs:displace_out = 0.022
+                custom asset inputs:height_texture = @./assets/fixes/environment/beach/nj01_sand02/nj01_sand02_height.h.rtex.dds@
+                asset inputs:normalmap_texture = @./assets/autoconv/011DF974C685F9E0_normal_oth.dds@
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/4C8FE7AAB7CFE03E_chR_rough.dds@
+            }
+        }
+
+        over "mat_99B6250C7D32B127"
+        {
+            over "Shader"
+            {
+                custom float inputs:displace_in = 0.014
+                custom float inputs:displace_out = 0.022
+                custom asset inputs:height_texture = @./assets/fixes/environment/beach/nj01_sand02/nj01_sand02_height.h.rtex.dds@
+                asset inputs:normalmap_texture = @./assets/autoconv/011DF974C685F9E0_normal_oth.dds@
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/4C8FE7AAB7CFE03E_chR_rough.dds@
+            }
+        }
+
+        over "mat_EC660CCEF43D9882"
+        {
+            over "Shader"
+            {
+                custom float inputs:displace_in = 0.04
+                custom float inputs:displace_out = 0.04
+                custom asset inputs:height_texture = @./assets/fixes/environment/beach/nj01_seafloor6/nj01_seafloor6_height.h.rtex.dds@
+                asset inputs:normalmap_texture = @./assets/autoconv/DCC318C69EFCB73E_normal_oth.dds@
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/DF7B5C4AEA673C87_chR_rough.dds@
+            }
+        }
+
+        over "mat_8E6BE9E5851AEA5C"
+        {
+            over "Shader"
+            {
+                custom float inputs:displace_in = 0.03
+                custom float inputs:displace_out = 0.03
+                custom asset inputs:height_texture = @./assets/fixes/environment/beach/nj01_sand01_dark/nj01_sand01_dark_height.h.rtex.dds@
+                asset inputs:normalmap_texture = @./assets/autoconv/BBFED1AC0C64E6ED_normal_oth.dds@
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/A33619DC794F6F38_chB_rough.dds@
+            }
+        }
+    }
+}
+
