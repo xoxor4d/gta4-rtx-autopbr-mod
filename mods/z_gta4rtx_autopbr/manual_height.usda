@@ -98,16 +98,6 @@ over "RootNode"
             }
         }
 
-        over "mat_6D378B8993E766B8"
-        {
-            over "Shader"
-            {
-                asset inputs:normalmap_texture = @./assets/autoconv/AEA538AB32AB65C9_normal_oth.dds@
-                asset inputs:height_texture = @./assets/autoconv/AEA538AB32AB65C9_height.dds@
-                float inputs:displace_in = 0.03
-            }
-        }
-
         over "mat_D10AED6908BDF206"
         {
             over "Shader"
@@ -145,16 +135,6 @@ over "RootNode"
                 asset inputs:normalmap_texture = @./assets/autoconv/CC04FA586A34CFF0_normal_oth.dds@
                 asset inputs:height_texture = @./assets/autoconv/CC04FA586A34CFF0_height.dds@
                 float inputs:displace_in = 0.01
-            }
-        }
-
-        over "mat_64D779AC1BD47E9A"
-        {
-            over "Shader"
-            {
-                asset inputs:reflectionroughness_texture = @./assets/autoconv/B4051B019F3D10D3_chG_rough.dds@
-                asset inputs:height_texture = @./assets/autoconv/DB3B73543E59F47E_height.dds@
-                float inputs:displace_in = 0.03
             }
         }
 

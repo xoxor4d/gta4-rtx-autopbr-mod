@@ -1,0 +1,32 @@
+#usda 1.0
+(
+    upAxis = "Z"
+)
+
+over "RootNode"
+{
+    over "Looks"
+    {
+        over "mat_20AC3E374E816D9A"
+        {
+            over "Shader"
+            {
+                custom float inputs:metallic_constant = 0.2
+                custom float inputs:reflection_roughness_constant = 0.825
+                custom asset inputs:reflectionroughness_texture = @./assets/fixes/protagonist/niko/head_diff_000/hair_diff_000_rough.dds@
+                asset inputs:normalmap_texture = @./assets/autoconv/6E860BC80C01F80A_normal_oth.dds@
+            }
+        }
+
+        over "mat_D5708208D5E723EF"
+        {
+            over "Shader"
+            {
+                custom float inputs:metallic_constant = 0.1
+                custom float inputs:reflection_roughness_constant = 0.9
+                asset inputs:normalmap_texture = @./assets/autoconv/DE6E69F7F061098D_normal_oth.dds@
+            }
+        }
+    }
+}
+

@@ -1,0 +1,21 @@
+#usda 1.0
+(
+    upAxis = "Z"
+)
+
+over "RootNode"
+{
+    over "Looks"
+    {
+        over "mat_C57AAA7E44481B85"
+        {
+            over "Shader"
+            {
+                asset inputs:normalmap_texture = @./assets/autoconv/9C6ECA2D8E3F9B08_normal_oth.dds@
+                custom float inputs:reflection_roughness_constant = 1
+                custom asset inputs:reflectionroughness_texture = @./assets/fixes/environment/glue/glue/glue_rough.dds@
+            }
+        }
+    }
+}
+

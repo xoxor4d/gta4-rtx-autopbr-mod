@@ -1,0 +1,114 @@
+#usda 1.0
+(
+    upAxis = "Z"
+)
+
+over "RootNode"
+{
+    over "Looks"
+    {
+        over "mat_CF2536F1F8756B0F"
+        {
+            over "Shader"
+            {
+                asset inputs:normalmap_texture = @./assets/autoconv/EC9D8C5A17718981_normal_oth.dds@
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/8F9330F603EDE755_chB_rough.dds@
+            }
+        }
+
+        over "mat_66C1096A357DE1C9"
+        {
+            over "Shader"
+            {
+                asset inputs:normalmap_texture = @@
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/7BF1A33AA6750E60_chG_rough.dds@
+            }
+        }
+
+        over "mat_FB5719C24A5F1A34"
+        {
+            over "Shader"
+            {
+                asset inputs:normalmap_texture = @@
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/31E54995E623CE40_chB_rough.dds@
+            }
+        }
+
+        over "mat_0433A6BE33DF175B"
+        {
+            over "Shader"
+            {
+                asset inputs:normalmap_texture = @@
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/9D57401132B06F3A_chG_rough.dds@
+            }
+        }
+
+        over "mat_DD028E0DED241F6D"
+        {
+            over "Shader"
+            {
+                asset inputs:normalmap_texture = @@
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/31E54995E623CE40_chG_rough.dds@
+            }
+        }
+
+        over "mat_120FCDD39153DFD6"
+        {
+            over "Shader"
+            {
+                asset inputs:normalmap_texture = @./assets/autoconv/A038A489979C68BB_normal_oth.dds@
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/A3223492F135C477_chR_rough.dds@
+            }
+        }
+
+        over "mat_314A94D000D9DF1B"
+        {
+            over "Shader"
+            {
+                custom float inputs:displace_in = 0.04
+                custom float inputs:displace_out = 0.04
+                custom asset inputs:height_texture = @./assets/fixes/environment/roads/nj01_tarmacbusted/nj01_tarmacbusted_height.h.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets/fixes/environment/roads/nj01_tarmacbusted/nj01_tarmacbusted_normal_OTH_Normal.n.rtex.dds@
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/BCDE199A2A627BB2_chG_rough.dds@
+            }
+        }
+
+        over "mat_CEFC07D7BD0BA731"
+        {
+            over "Shader"
+            {
+                custom float inputs:displace_in = 0.06
+                custom float inputs:displace_out = 0.06
+                custom asset inputs:height_texture = @./assets/fixes/environment/roads/njdock_ground_old/njdock_ground_old_height.h.rtex.dds@
+                asset inputs:normalmap_texture = @./assets/autoconv/45A3C3254B2AD7D2_normal_oth.dds@
+                custom float inputs:reflection_roughness_constant = 0.48999998
+                custom asset inputs:reflectionroughness_texture = @./assets/fixes/environment/roads/njdock_ground_old/njdock_ground_old_rough.r.rtex.dds@
+            }
+        }
+
+        over "mat_19DC7130182BBC9F"
+        {
+            over "Shader"
+            {
+                custom float inputs:displace_in = 0.06
+                custom float inputs:displace_out = 0.06
+                custom asset inputs:height_texture = @./assets/fixes/environment/roads/nj01_bustedtarmac/nj01_bustedtarmac_height.h.rtex.dds@
+                asset inputs:normalmap_texture = @./assets/fixes/environment/roads/nj01_bustedtarmac/nj01_bustedtarmac_n_OTH_Normal.n.rtex.dds@
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/BCDE199A2A627BB2_chG_rough.dds@
+            }
+        }
+
+        over "mat_F190A17EEE2711C3"
+        {
+            over "Shader"
+            {
+                custom float inputs:displace_in = 0.04
+                custom float inputs:displace_out = 0.04
+                custom asset inputs:height_texture = @./assets/fixes/environment/roads/nj01_road4cobblemixl/nj01_road4cobblemixl_height.h.rtex.dds@
+                asset inputs:normalmap_texture = @./assets/fixes/environment/roads/nj01_road4cobblemixl/nj01_road4cobblemixl_n_OTH_Normal.n.rtex.dds@
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/BD5E0EAC8FCAA00F_chG_rough.dds@
+            }
+        }
+    }
+}
+

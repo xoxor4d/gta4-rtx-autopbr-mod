@@ -1,0 +1,274 @@
+#usda 1.0
+(
+    upAxis = "Z"
+)
+
+over "RootNode"
+{
+    over "Looks"
+    {
+        over "mat_1A99B42578F12466"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 1
+            }
+        }
+
+        over "mat_D7D033F13552FDD1"
+        {
+            over "Shader"
+            {
+                asset inputs:normalmap_texture = @./assets/autoconv/69AB6DBCAE00C443_normal_oth.dds@
+                custom float inputs:reflection_roughness_constant = 1
+                asset inputs:reflectionroughness_texture = @@
+            }
+        }
+
+        over "mat_8B60369D2281D439"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 1
+            }
+        }
+
+        over "mat_EABA3F442826D2AF"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 1
+            }
+        }
+
+        over "mat_A7EEC39A9323C905"
+        {
+            over "Shader"
+            {
+                asset inputs:normalmap_texture = @./assets/autoconv/69AB6DBCAE00C443_normal_oth.dds@
+                custom float inputs:reflection_roughness_constant = 1
+            }
+        }
+
+        over "mat_07C7282E776BB069"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 1
+            }
+        }
+
+        over "mat_018B8101CA78C5B8"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 1
+            }
+        }
+
+        over "mat_F7F482DCCF4F7853"
+        {
+            over "Shader"
+            {
+                asset inputs:normalmap_texture = @./assets/autoconv/E15767446BF505A5_normal_oth.dds@
+                custom float inputs:reflection_roughness_constant = 1
+            }
+        }
+
+        over "mat_4240E7BF5EE4D419"
+        {
+            over "Shader"
+            {
+                asset inputs:reflectionroughness_texture = @./assets/fixes/environment/grass/sl_cp_grass01/sl_cp_grass01_rough.dds@
+            }
+        }
+
+        over "mat_31309BA1CD7A6C6C"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 1
+            }
+        }
+
+        over "mat_9781D265977F4005"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 1
+            }
+        }
+
+        over "mat_D43E816CBA0A8939"
+        {
+            over "Shader"
+            {
+                custom float inputs:displace_in = 0.04
+                custom float inputs:displace_out = 0.04
+                custom asset inputs:height_texture = @./assets/fixes/environment/grass/am_glue_grassdirt/am_glue_grassdirt_height.h.rtex.dds@
+                asset inputs:normalmap_texture = @./assets/fixes/environment/grass/am_glue_grassdirt/am_glue_grassdirt_normal_OTH_Normal.n.rtex.dds@
+                asset inputs:reflectionroughness_texture = @./assets/fixes/environment/grass/am_glue_grassdirt/am_glue_grassdirt_rough.r.rtex.dds@
+            }
+        }
+
+        over "mat_E5D584BA8B0233B5"
+        {
+            over "Shader"
+            {
+                custom float inputs:displace_in = 0.03
+                custom float inputs:displace_out = 0.03
+                custom asset inputs:height_texture = @./assets/fixes/environment/grass/njdock_grassworn/njdock_grassworn_height.h.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets/fixes/environment/grass/njdock_grassworn/njdock_grassworn_n_OTH_Normal.n.rtex.dds@
+                custom float inputs:reflection_roughness_constant = 0.405
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/0B36DD26B37AB910_chG_rough.dds@
+            }
+        }
+
+        over "mat_6B536713455C6B46"
+        {
+            over "Shader"
+            {
+                custom float inputs:displace_in = 0.04
+                custom float inputs:displace_out = 0.04
+                custom asset inputs:height_texture = @./assets/fixes/environment/grass/am_stonepath_dirt2/am_stonepath_dirt2_height.h.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets/fixes/environment/grass/am_stonepath_dirt2/am_stonepath_dirt2_normal_OTH_Normal.n.rtex.dds@
+                custom float inputs:reflection_roughness_constant = 0.415
+                custom asset inputs:reflectionroughness_texture = @./assets/fixes/environment/grass/am_stonepath_dirt2/am_stonepath_dirt2_rough.r.rtex.dds@
+            }
+        }
+
+        over "mat_958BCE0308E38CA0"
+        {
+            over "Shader"
+            {
+                custom float inputs:displace_in = 0.04
+                custom float inputs:displace_out = 0.04
+                custom asset inputs:height_texture = @./assets/fixes/environment/grass/am_stonepath_dirt2/am_stonepath_dirt2_height.h.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets/fixes/environment/grass/am_stonepath_dirt2/am_stonepath_dirt2_normal_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets/fixes/environment/grass/am_stonepath_dirt2/am_stonepath_dirt2_rough.r.rtex.dds@
+            }
+        }
+
+        over "mat_F46DBF2A2B68E1DB"
+        {
+            over "Shader"
+            {
+                custom float inputs:displace_in = 0.05
+                custom float inputs:displace_out = 0.05
+                custom asset inputs:height_texture = @./assets/fixes/environment/grass/et_darkbrownmud/et_darkbrownmud_height.h.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets/fixes/environment/grass/et_darkbrownmud/et_darkbrownmud_n_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets/fixes/environment/grass/et_darkbrownmud/et_darkbrownmud_rough.r.rtex.dds@
+            }
+        }
+
+        over "mat_192EBF0353720F1D"
+        {
+            over "Shader"
+            {
+                custom float inputs:displace_in = 0.04
+                custom float inputs:displace_out = 0.04
+                custom asset inputs:height_texture = @./assets/fixes/environment/grass/am_stonepath_dirt2/am_stonepath_dirt2_height.h.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets/fixes/environment/grass/am_stonepath_dirt2/am_stonepath_dirt2_normal_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets/fixes/environment/grass/am_stonepath_dirt2/am_stonepath_dirt2_rough.r.rtex.dds@
+            }
+        }
+
+        over "mat_6BF29854BF685677"
+        {
+            over "Shader"
+            {
+                custom float inputs:displace_in = 0.03
+                custom float inputs:displace_out = 0.03
+                custom asset inputs:height_texture = @./assets/fixes/environment/grass/njdock_grassworn/njdock_grassworn_height.h.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets/fixes/environment/grass/njdock_grassworn/njdock_grassworn_n_OTH_Normal.n.rtex.dds@
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/0B36DD26B37AB910_chG_rough.dds@
+            }
+        }
+
+        over "mat_E0436B99EB8FA048"
+        {
+            over "Shader"
+            {
+                custom float inputs:displace_in = 0.015
+                custom float inputs:displace_out = 0.015
+                custom asset inputs:height_texture = @./assets/fixes/environment/grass/nj01_grassbank/r_grassbank_height.h.rtex.dds@
+                asset inputs:normalmap_texture = @./assets/fixes/environment/grass/nj01_grassbank/r_grassbank_n_OTH_Normal.n.rtex.dds@
+                custom float inputs:reflection_roughness_constant = 0.44
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/F36B8A9DE02B44D3_chG_rough.dds@
+            }
+        }
+
+        over "mat_5C391BCAA2D7F576"
+        {
+            over "Shader"
+            {
+                custom float inputs:displace_in = 0.15
+                custom float inputs:displace_out = 0.15
+                custom asset inputs:height_texture = @./assets/fixes/environment/grass/nj01_grass2/nj01_grass2_height.h.rtex.dds@
+                asset inputs:normalmap_texture = @./assets/autoconv/833868006D5607E4_normal_oth.dds@
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/5306DE5A2B3BB0B8_chB_rough.dds@
+            }
+        }
+
+        over "mat_2E735D2959201CCD"
+        {
+            over "Shader"
+            {
+                custom float inputs:displace_in = 0.15
+                custom float inputs:displace_out = 0.15
+                custom asset inputs:height_texture = @./assets/fixes/environment/grass/nj01_grass2/nj01_grass2_height.h.rtex.dds@
+                asset inputs:normalmap_texture = @./assets/autoconv/833868006D5607E4_normal_oth.dds@
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/5306DE5A2B3BB0B8_chB_rough.dds@
+            }
+        }
+
+        over "mat_B04BDA94BFF68261"
+        {
+            over "Shader"
+            {
+                custom float inputs:displace_in = 0.15
+                custom float inputs:displace_out = 0.15
+                custom asset inputs:height_texture = @./assets/fixes/environment/grass/nj01_grass2/nj01_grass2_height.h.rtex.dds@
+                asset inputs:normalmap_texture = @./assets/autoconv/833868006D5607E4_normal_oth.dds@
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/5306DE5A2B3BB0B8_chB_rough.dds@
+            }
+        }
+
+        over "mat_4D9D148DCD029F74"
+        {
+            over "Shader"
+            {
+                custom float inputs:displace_in = 0.15
+                custom float inputs:displace_out = 0.15
+                custom asset inputs:height_texture = @./assets/fixes/environment/grass/nj01_grass2/nj01_grass2_height.h.rtex.dds@
+                asset inputs:normalmap_texture = @./assets/autoconv/833868006D5607E4_normal_oth.dds@
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/5306DE5A2B3BB0B8_chB_rough.dds@
+            }
+        }
+
+        over "mat_46DA31F6F9F46BD3"
+        {
+            over "Shader"
+            {
+                custom float inputs:displace_in = 0.15
+                custom float inputs:displace_out = 0.15
+                custom asset inputs:height_texture = @./assets/fixes/environment/grass/nj01_grass2/nj01_grass2_height.h.rtex.dds@
+                asset inputs:normalmap_texture = @./assets/autoconv/833868006D5607E4_normal_oth.dds@
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/5306DE5A2B3BB0B8_chB_rough.dds@
+            }
+        }
+
+        over "mat_06D220961574F424"
+        {
+            over "Shader"
+            {
+                custom float inputs:displace_in = 0.15
+                custom float inputs:displace_out = 0.15
+                custom asset inputs:height_texture = @./assets/fixes/environment/grass/nj01_grass2/nj01_grass2_height.h.rtex.dds@
+                asset inputs:normalmap_texture = @./assets/autoconv/833868006D5607E4_normal_oth.dds@
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/5306DE5A2B3BB0B8_chB_rough.dds@
+            }
+        }
+    }
+}
+

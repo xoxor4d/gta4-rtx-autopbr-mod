@@ -1,0 +1,125 @@
+#usda 1.0
+(
+    upAxis = "Z"
+)
+
+over "RootNode"
+{
+    over "Looks"
+    {
+        over "mat_338D96F21B10FD45"
+        {
+            over "Shader"
+            {
+                asset inputs:normalmap_texture = @./assets/fixes/environment/parks/nt_redbrick/nt_redbrick_normal.dds@
+                asset inputs:reflectionroughness_texture = @./assets/fixes/environment/parks/nt_redbrick/nt_redbrick_rough.dds@
+            }
+        }
+
+        over "mat_544B45815C2194CC"
+        {
+            over "Shader"
+            {
+                asset inputs:normalmap_texture = @./assets/autoconv/0A9F52C84EEF7B0A_normal_oth.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets/fixes/environment/parks/qw_bigtower4/qw_bigtower4_rough.dds@
+            }
+        }
+
+        over "mat_0A6E3BA69CA35EA1"
+        {
+            over "Shader"
+            {
+                asset inputs:normalmap_texture = @./assets/fixes/environment/parks/mh_cptile01/mh_cptile01_normal.dds@
+                asset inputs:reflectionroughness_texture = @./assets/fixes/environment/parks/mh_cptile01/mh_cptile01_rough.dds@
+            }
+        }
+
+        over "mat_30A6135BCAF3D717"
+        {
+            over "Shader"
+            {
+                asset inputs:normalmap_texture = @./assets/autoconv/7696B74098BAE6C2_normal_oth.dds@
+                asset inputs:reflectionroughness_texture = @./assets/fixes/environment/parks/mh_cp_foutnain/mh_cp_foutnain_rough.dds@
+            }
+        }
+
+        over "mat_59BB3664E5917792"
+        {
+            over "Shader"
+            {
+                asset inputs:normalmap_texture = @./assets/fixes/environment/parks/mh_cpppeeble/mh_cpppeeble_normal.dds@
+                asset inputs:reflectionroughness_texture = @./assets/fixes/environment/parks/mh_cpppeeble/mh_cpppeeble_rough.dds@
+            }
+        }
+
+        over "mat_CD800766A775F1B7"
+        {
+            over "Shader"
+            {
+                asset inputs:normalmap_texture = @./assets/autoconv/7696B74098BAE6C2_normal_oth.dds@
+                asset inputs:reflectionroughness_texture = @./assets/fixes/environment/parks/tf_diner_pave/tf_diner_pave_rough.dds@
+            }
+        }
+
+        over "mat_9450986A97984501"
+        {
+            over "Shader"
+            {
+                custom float inputs:displace_in = 0.017
+                custom float inputs:displace_out = 0.02
+                custom asset inputs:height_texture = @./assets/fixes/environment/parks/qw_coast2/qw_coast2_height.h.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets/fixes/environment/parks/qw_coast2/qw_coast2_normal_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets/fixes/environment/parks/qw_coast2/qw_coast2_rough.r.rtex.dds@
+            }
+        }
+
+        over "mat_ECA3ACBAB56F5BB9"
+        {
+            over "Shader"
+            {
+                asset inputs:normalmap_texture = @./assets/autoconv/619156F927C6A13E_normal_oth.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets/fixes/environment/parks/qw_coast4/qw_coast4_rough.r.rtex.dds@
+            }
+        }
+
+        over "mat_2DDFD8CE5A10A4B9"
+        {
+            over "Shader"
+            {
+                asset inputs:normalmap_texture = @./assets/autoconv/C7D1CF68CC904C56_normal_oth.dds@
+                custom float inputs:reflection_roughness_constant = 0.7
+            }
+        }
+
+        over "mat_7E566FC920BC0341"
+        {
+            over "Shader"
+            {
+                asset inputs:normalmap_texture = @./assets/autoconv/F831D1DFD057183C_normal_oth.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets/fixes/environment/parks/tf_pathwall1/tf_pathwall1_rough.r.rtex.dds@
+            }
+        }
+
+        over "mat_3629D11643718D1D"
+        {
+            over "Shader"
+            {
+                asset inputs:normalmap_texture = @./assets/autoconv/0F0532DBC420D0BB_normal_oth.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets/fixes/environment/parks/tf_pathwall2/tf_pathwall2_rough.r.rtex.dds@
+            }
+        }
+
+        over "mat_03FAAF28FD43EB1F"
+        {
+            over "Shader"
+            {
+                custom float inputs:displace_in = 0.06
+                custom float inputs:displace_out = 0.06
+                custom asset inputs:height_texture = @./assets/fixes/environment/parks/nj01_greypavers/nj01_greypavers_height.h.rtex.dds@
+                asset inputs:normalmap_texture = @./assets/fixes/environment/parks/nj01_greypavers/nj01_greypavers_n_OTH_Normal.n.rtex.dds@
+                asset inputs:reflectionroughness_texture = @./assets/autoconv/AE9DD460E3B87917_chG_rough.dds@
+            }
+        }
+    }
+}
+
